@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Filipe
 
 🎓 Estudante de **Sistemas de Informação**  
-💻 Atualmente trabalho como **Desenvolvedor de Software**  
+💻 Atualmente trabalho como **Desenvolvimento de Software**  
 
 ## 🚀 Tecnologias que utilizo
 - **Frontend:** React, Angular  
