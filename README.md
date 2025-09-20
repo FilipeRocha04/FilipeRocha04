@@ -8,7 +8,9 @@
 - **Backend:** NestJS, Laravel  
 - **Banco de Dados:** MySQL, PostgreSQL,  
 - **Outros:** TailwindCSS, TypeScript,
-- ![filiperocha04's Stats](https://github-readme-stats.vercel.app/api?username=filiperocha04&theme=prussian&show_icons=true&hide_border=true&count_private=true)   
+- ![filiperocha04's Stats](https://github-readme-stats.vercel.app/api?username=filiperocha04&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+- ![filiperocha04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=filiperocha04&theme=prussian&hide_border=true)
+- ![filiperocha04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filiperocha04&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ## 📈 Sobre mim
 Sou apaixonado por tecnologia e inovação.  
