@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Filipe  
 
 🎓 Estudante de **Sistemas de Informação**  
-💻 Atualmente trabalho com **Desenvolvimento de Software**  
+💻 Atualmente trabalho com **Desenvolvimento de Software Fullstack**  
 
 ---
 
