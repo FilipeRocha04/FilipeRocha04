@@ -7,7 +7,8 @@
 - **Frontend:** React, Angular  
 - **Backend:** NestJS, Laravel  
 - **Banco de Dados:** MySQL, PostgreSQL,  
-- **Outros:** TailwindCSS, TypeScript,   
+- **Outros:** TailwindCSS, TypeScript,
+- ![filiperocha04's Stats](https://github-readme-stats.vercel.app/api?username=filiperocha04&theme=prussian&show_icons=true&hide_border=true&count_private=true)   
 
 ## 📈 Sobre mim
 Sou apaixonado por tecnologia e inovação.  
