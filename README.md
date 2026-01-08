@@ -11,16 +11,6 @@
 - **Banco de Dados:** MySQL, PostgreSQL  
 - **Outros:** TailwindCSS, TypeScript  
 
----
-
-## 📊 Estatísticas do GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filiperocha04&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=filiperocha04&theme=prussian&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiperocha04&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
----
 
 ## 📈 Sobre mim  
 Sou apaixonado por tecnologia e inovação.  
