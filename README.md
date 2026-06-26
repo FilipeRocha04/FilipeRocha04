@@ -1,6 +1,4 @@
 # 👋 Olá, eu sou o Filipe  
-
-🎓 Estudante de **Sistemas de Informação**  
 💻 Atualmente trabalho com **Desenvolvimento de Agentes de IA**  
 
 ---
