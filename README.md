@@ -18,7 +18,7 @@
 ## 📈 Sobre mim  
 Sou apaixonado por tecnologia e inovação.  
 Atualmente estou focado em:  
-- Desenvolvimento **Full Stack**  
+- Desenvolvimento de **Agentes de IA**  
 - Integração de **Inteligência Artificial** em projetos reais  
 
 ---
