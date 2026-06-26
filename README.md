@@ -1,11 +1,14 @@
 # 👋 Olá, eu sou o Filipe  
 
 🎓 Estudante de **Sistemas de Informação**  
-💻 Atualmente trabalho com **Desenvolvimento de Software Full Stack**  
+💻 Atualmente trabalho com **Desenvolvimento de Agentes de IA**  
 
 ---
 
-## 🚀 Tecnologias que utilizo  
+## 🚀Tecnologias que utilizo
+-Python,LangChain,LangGragh,Langfuse
+
+## Desenvolvimento Full Stack
 - **Frontend:** React, Angular  
 - **Backend:** NestJS, Laravel  
 - **Banco de Dados:** MySQL, PostgreSQL  
