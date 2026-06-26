@@ -6,7 +6,7 @@
 ---
 
 ## 🚀Tecnologias que utilizo
--Python,LangChain,LangGragh,Langfuse
+-Python, LangChain, LangGragh, Langfuse
 
 ## Desenvolvimento Full Stack
 - **Frontend:** React, Angular  
